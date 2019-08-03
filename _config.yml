@@ -1,5 +1,5 @@
-title: Résumé
-baseurl: "/resume/"
+﻿title: Résumé
+baseurl: "/yfgui.github.io/"
 exclude:
   - README.md
   - "README_zh-CN.md"
