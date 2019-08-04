@@ -36,7 +36,11 @@ study-projects:
     description: As part of the work in SJTU-Starrag Joint Lab, I created a holographic model in HoloLens, through which the spindle movement and running status of NB251 milling center were demonstrated. This project was shown at the 1st China International Import Expo.
   - name: Work for <b>the Fraunhofer project center for smart manufacturing at SJTU.</b>
     duration: Oct 2017 - Jun 2018
-    description: I developed an MR dashboard based on HoloLens to display the real-time state of the equipment (such as <div style="cursor: pointer;" οnclick="window.location='http://google.com';">machine tools</div>, UR robots, and FESTO assembly line) in the plant.
+    description: I developed an MR dashboard based on HoloLens to display the real-time state of the equipment (such as 
+    <div style="cursor: pointer;" οnclick="window.location='http://google.com';">
+    machine tools
+    </div>
+    , UR robots, and FESTO assembly line) in the plant.
 work-experience:
   - title: Student assistant in the Engine plant
     duration: Aug 2016 - Sep 2016
