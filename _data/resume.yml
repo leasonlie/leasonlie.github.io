@@ -2,54 +2,77 @@
 name: Yufei Gui
 jobtitle: Master student
 contact:
-  - icon: fa-envelope
-    text: youremail@example.com
+  - icon: fa-map-pin
+    text: 800 Dongchuan Road, Shanghai, China
   - icon: fa-phone-square
-    text: your-phone-num
-  - icon: fa-globe
-    text: your-website.com
-    link: https://crispgm.github.io/resume/resume.html
-  - icon: fa-github
-    text: your-github
-    link: https://github.com/crispgm/resume
+    text: +86 15221189675
+  - icon: fa-envelope
+    text: guiyufei@sjtu.edu.cn
+  - icon: fa-id-card
+    text: P.R. China
+profile:
+  - description: I am a Master student at the School of Mechanical Engineering at Shanghai Jiao Tong University. My research interests are mainly concentrated on Prognostic and Health Management (PHM), surface modification treatment, and adaptive machining technology. I have been working for the Fraunhofer project center for smart manufacturing at SJTU. The focuses of my research were towards the influence of Dengeling on the surface integrity and fatigue strength of titanium alloys, the application of the spindle power data in tool condition monitoring (TCM) based on Hilbert-Huang transform (HHT), and the application of Mixed Reality(MR) in the industrial scenario.
 education:
-  - university: Your First University
-    duration: Jul 2011 - Dec 2012
-    location: Consectetur adipiscing elit
-    major: Lorem ipsum dolor sit amet
-  - university: Your Second University
-    duration: Aug 2007 - Jun 2011
-    location: Ut enim ad minim veniam
-    major: Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-skills:
-  - title: Skill Group 1
-    items: Lorem, Ipsum, Dolor, Sit, Amet
-  - title: Skill Group 2
-    items: Consectetur, Adipiscing, Elit
-  - title: Skill Group 3
-    items: Sed do, Eiusmod, Tempor, Incididunt
-experience:
-  - title: Job Title 1
-    duration: Apr 2016 - Now
-    company: Your 1st, Inc.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: Job Title 2
-    duration: Apr 2013 - Mar 2016
-    company: Your 2nd, Inc.
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  - title: Job Title 3
-    duration: Dec 2011 - Mar 2012
-    company: Your 3rd Co, Ltd.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-projects:
-  - name: Project Name 1
-    description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Contributor.
-  - name: Project Name 2
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Creator and maintainer.
-languages:
-  - name: English
-    proficiency: Work proficiency
-  - name: Mandarin Chinese
-    proficiency: Native
+  - university:  Shanghai Jiao Tong University
+    degree: MSc in Mechanical Engineering
+    duration: Sep 2017 - Present
+    location: Shanghai, China
+    description: Courses, e.g., Application and Theory of Elasticity and Plasticity, Modern Control Theory, Advanced Spatial Mechanism, Machinery Dynamics (GPA:3.88/4)
+  - university: Tianjin University
+    degree: BEng in Mechanical Design, Manufacture and Automation
+    duration: Sep 2013 - Jul 2017
+    location: Tianjin, China
+    description: Courses, e.g., Mechanical Theory and Mechanical Design, Fundamentals of Mechanical Manufacturing Technology, Mechanics of Materials, Introduction to Electrical Engineering (GPA-3.78/4)
+    thesis: Bachelor thesis, ‘Design of flexible-driving 3 DOF polishing head.’
+study projects:
+  - name: Research into ‘Dengeling—a new method for mechanical surface treatment.’
+    duration: Mar 2019 – present
+    description: Dengeling is a new process which is integrated into Starrag LX051 milling center. I have been investigating its influence on the surface integrity and fatigue strength of titanium alloys.
+  - name: Research into ‘A creative online tool condition monitoring (TCM) method.’
+    duration: Apr 2018 – May 2019
+    description: I used a signal acquisition system to collect the spindle power signal of the machine tool and utilized Hilbert-Huang Transform to process the data to extract features highly related to the wear state of cutting tools.
+  - name: Research into ‘The application of Mixed Reality (MR) technology on Starrag NB2521.’
+    duration: Jul 2018 - Nov 2018
+    description: As part of the work in SJTU-Starrag Joint Lab, I created a holographic model in HoloLens, through which the spindle movement and running status of NB251 milling center were demonstrated. This project was shown at the 1st China International Import Expo.
+  - name: Work for the Fraunhofer project center for smart manufacturing at SJTU.
+    duration: Oct 2017 - Jun 2018
+    description: I developed an MR dashboard based on HoloLens to display the real-time state of the equipment (such as machine tools, UR robots, and FESTO assembly line) in the plant.
+work experience:
+  - title: Student assistant in the Engine plant
+    duration: Aug 2016 - Sep 2016
+    company: Dongfeng Trucks Co. Ltd.
+    description:   Formulating a process scheme for the shaft parts in the automotive gearbox
+  - title: Intern service engineer
+    duration: Jun 2016 - Aug 2018
+    company: Roche Diagnostics (Shanghai) Ltd.
+    description: Completing the installation, maintenance, and basic troubleshooting according to the technical manual independently
+extracurricular activities:
+  - name: Metal Cutting Trainning Sandvik
+    duration: Jun 2019 - Jul 2019
+    location: Shanghai
+    description: Completed the Sandvid Coromant Academy Program ‘Metal Cutting Technology E-learning’ and on-site training, including milling, turning, tools.
+  - name: Member of ‘Chinese Students Meet Swiss Technology Program’ held by SWISSMEM
+    duration: Apr 2019
+    location: Beijing
+    description: - Visited more than 60 Swiss companies exhibiting at CIMT’19
+    - Learned the latest technology developments in manufacturing and machine tools, tools and measuring instruments
+    - Met with the Swiss Ambassador Bernardino Regazzoni
+  - name: Member of ‘Hug Nami’ public welfare education organization
+    duration: Feb 2017
+    location: Sichuan Province
+    description: - Raised supplies for children on a snowy mountain and imparted knowledge to them
+  - name: Chair of the Student Association Union
+    duration: Oct 2015 - Jul 2016
+    location: Tianjin
+    description: - Responsible for internal and external communications
+    - Developing a new workflow to optimize the organization of activities and serve more than 150 student associations
+publications:
+  - name: Gui YF, Shen B, Chen B, etc. Application of Spindle Power Signals in Tool Condition Monitoring Based on HHT Algorithm. Submitted to INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY (under review)
+    time: Jun 2019
+addtitional information:
+  - title: Computer skills
+    items: Excellent: AutoCAD, SolidWorks, MATLAB, Abaqus, Unity, ESPRIT  Fair: Pro/E, UG, ANSYS
+  - title: Language skills
+    items: Chinese (native), English (good, C1)
+  - title: interests
+    items: Sports, Music, Reading

@@ -26,7 +26,22 @@ layout: default
           {% endfor %}
         </div>
       </header>
-
+        
+      <section id="profile">
+        <div class="section-title">
+          Profile
+        </div>
+        <div class="section-content">
+          {% for pro in site.data.resume.profile %}
+          <div class="block">
+            <div class="block-content">
+              {{ pro.description }}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </section>
+        
       <section id="education">
         <div class="section-title">
           Education
@@ -35,91 +50,112 @@ layout: default
           {% for edu in site.data.resume.education %}
           <div class="block">
             <div class="block-title">
-              {{ edu.university }}
+              {{ edu.university }} | {{ edu.degree }}
             </div>
             <div class="block-subtitle">
               {{ edu.duration }} | {{ edu.location }}
             </div>
             <div class="block-content">
-              {{ edu.major }}
+              {{ edu.description }}
             </div>
           </div>
           {% endfor %}
         </div>
       </section>
 
-      <section id="skills">
+      <section id="study projects">
         <div class="section-title">
-          Skills
+          Study projects
         </div>
         <div class="section-content">
-          {% for skill in site.data.resume.skills %}
+          {% for study in site.data.resume.study projects %}
           <div class="block">
             <div class="block-title">
-              {{ skill.title }}
+              {{ study.name }}
+            </div>
+            <div class="block-subtitle">
+              {{ study.duration }}
             </div>
             <div class="block-content">
-              {{ skill.items }}
+              {{ study.description }}
             </div>
           </div>
           {% endfor %}
         </div>
       </section>
 
-      <section id="experience">
+      <section id="work experience">
+        <div class="section-title">
+          Work experience
+        </div>
+        <div class="section-content">
+          {% for work in site.data.resume.work experience %}
+          <div class="block">
+            <div class="block-title">
+              {{ work.title }}
+            </div>
+            <div class="block-subtitle">
+              {{ work.duration }} | {{ work.company }}
+            </div>
+            <div class="block-content">
+              {{ work.description }}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </section>
+
+      <section id="extracurricular activities">
+        <div class="section-title">
+          Extracurricular activities
+        </div>
+        <div class="section-content">
+          {% for extra in site.data.resume.extracurricular activities %}
+          <div class="block">
+            <div class="block-title">
+              {{ extra.name }}
+            </div>
+            <div class="block-subtitle">
+              {{ extra.duration }} | {{ work.location }}
+            </div>
+            <div class="block-content">
+              {{ extra.description }}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </section>
+
+      <section id="publications">
         <div class="section-title">
           Experience
         </div>
         <div class="section-content">
-          {% for exp in site.data.resume.experience %}
+          {% for pub in site.data.resume.publications %}
           <div class="block">
             <div class="block-title">
-              {{ exp.title }}
+              {{ pub.name }}
             </div>
             <div class="block-subtitle">
-              {{ exp.duration }} | {{ exp.company }}
-            </div>
-            <div class="block-content">
-              {{ exp.description }}
+              {{ pub.time }}
             </div>
           </div>
           {% endfor %}
         </div>
       </section>
 
-      <section id="projects">
+      <section id="additional activities">
         <div class="section-title">
-          Projects
+          Additional activities
         </div>
         <div class="section-content">
-          {% for project in site.data.resume.projects %}
+          {% for act in site.data.resume.additional activities %}
           <div class="block">
             <div class="block-title">
-              {{ project.name }}
-            </div>
-            <div class="block-subtitle">
-              {{ project.contribution }}
+              {{ act.title }}
             </div>
             <div class="block-content">
-              {{ project.description }}
-            </div>
-          </div>
-          {% endfor %}
-        </div>
-      </section>
-
-      <section id="languages">
-        <div class="section-title">
-          Languages
-        </div>
-        <div class="section-content section-flex">
-          {% for language in site.data.resume.languages %}
-          <div class="block block-square">
-            <div class="block-title">
-              {{ language.name }}
-            </div>
-            <div class="block-content">
-              {{ language.proficiency }}
+              {{ act.items }}
             </div>
           </div>
           {% endfor %}
