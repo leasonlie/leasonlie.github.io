@@ -41,28 +41,31 @@ work-experience:
   - title: Student assistant in the Engine plant
     duration: Aug 2016 - Sep 2016
     company: Dongfeng Trucks Co. Ltd.
-    description: Formulating a process scheme for the shaft parts in the automotive gearbox
+    description: <li>Formulating a process scheme for the shaft parts in the automotive gearbox</li>
   - title: Intern service engineer
     duration: Jun 2016 - Aug 2018
     company: Roche Diagnostics (Shanghai) Ltd.
-    description: Completing the installation, maintenance, and basic troubleshooting according to the technical manual independently
+    description: <li>Completing the installation, maintenance, and basic troubleshooting according to the technical manual independently</li>
 extracurricular-activities:
   - name: Metal Cutting Trainning Sandvik
     duration: Jun 2019 - Jul 2019
     location: Shanghai
-    description: Completed the Sandvid Coromant Academy Program ‘Metal Cutting Technology E-learning’ and on-site training, including milling, turning, tools.
+    description1: Completed the Sandvid Coromant Academy Program ‘Metal Cutting Technology E-learning’ and on-site training, including milling, turning, tools.
   - name: Member of ‘Chinese Students Meet Swiss Technology Program’ held by SWISSMEM
     duration: Apr 2019
     location: Beijing
-    description: Visited more than 60 Swiss companies exhibiting at CIMT’19    Learned the latest technology developments in manufacturing and machine tools, tools and measuring instruments    Met with the Swiss Ambassador Bernardino Regazzoni
+    description1: Visited more than 60 Swiss companies exhibiting at CIMT’19
+    description2: Learned the latest technology developments in manufacturing and machine tools, tools and measuring instruments
+    description3: Met with the Swiss Ambassador Bernardino Regazzoni
   - name: Member of ‘Hug Nami’ public welfare education organization
     duration: Feb 2017
     location: Sichuan Province
-    description: Raised supplies for children on a snowy mountain and imparted knowledge to them
+    description1: Raised supplies for children on a snowy mountain and imparted knowledge to them
   - name: Chair of the Student Association Union
     duration: Oct 2015 - Jul 2016
     location: Tianjin
-    description: Responsible for internal and external communications    Developing a new workflow to optimize the organization of activities and serve more than 150 student associations
+    description1: Responsible for internal and external communications
+    description2: Developing a new workflow to optimize the organization of activities and serve more than 150 student associations
 publications:
   - name: Gui YF, Shen B, Chen B, etc. Application of Spindle Power Signals in Tool Condition Monitoring Based on HHT Algorithm. Submitted to INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY (under review)
     time: Jun 2019
