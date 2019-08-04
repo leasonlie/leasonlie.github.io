@@ -54,7 +54,7 @@ extracurricular-activities:
   - name: Member of ‘Chinese Students Meet Swiss Technology Program’ held by SWISSMEM
     duration: Apr 2019
     location: Beijing
-    description: <li>Visited more than 60 Swiss companies exhibiting at CIMT’19</li> <br/> <li>earned the latest technology developments in manufacturing and machine tools, tools and measuring instruments</li> <br/> <li>Met with the Swiss Ambassador Bernardino Regazzoni</li>
+    description: <li>Visited more than 60 Swiss companies exhibiting at CIMT’19</li> <li>earned the latest technology developments in manufacturing and machine tools, tools and measuring instruments</li> <li>Met with the Swiss Ambassador Bernardino Regazzoni</li>
   - name: Member of ‘Hug Nami’ public welfare education organization
     duration: Feb 2017
     location: Sichuan Province
@@ -62,7 +62,7 @@ extracurricular-activities:
   - name: Chair of the Student Association Union
     duration: Oct 2015 - Jul 2016
     location: Tianjin
-    description: <li>Responsible for internal and external communications</li> <br/> <li>Developing a new workflow to optimize the organization of activities and serve more than 150 student associations</li>
+    description: <li>Responsible for internal and external communications</li> <li>Developing a new workflow to optimize the organization of activities and serve more than 150 student associations</li>
 publications:
   - name: Gui YF, Shen B, Chen B, etc. Application of Spindle Power Signals in Tool Condition Monitoring Based on HHT Algorithm. Submitted to INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY (under review)
     time: Jun 2019
