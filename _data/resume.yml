@@ -11,7 +11,7 @@ contact:
   - icon: fa-id-card
     text: P.R. China
 profile:
-  - description: I am a [Master student](https://github.com/crispgm/resume/tree/master/screenshots) at the School of Mechanical Engineering at Shanghai Jiao Tong University. My research interests are mainly concentrated on <b>Prognostic and Health Management (PHM), surface modification treatment, and adaptive machining technology</b>. I have been working for the Fraunhofer project center for smart manufacturing at SJTU. The focuses of my research were towards the influence of Dengeling on the surface integrity and fatigue strength of titanium alloys, the application of the spindle power data in tool condition monitoring (TCM) based on Hilbert-Huang transform (HHT), and the application of Mixed Reality(MR) in the industrial scenario.
+  - description: I am a Master student at the School of Mechanical Engineering at Shanghai Jiao Tong University. My research interests are mainly concentrated on <b>Prognostic and Health Management (PHM), surface modification treatment, and adaptive machining technology</b>. I have been working for the Fraunhofer project center for smart manufacturing at SJTU. The focuses of my research were towards the influence of Dengeling on the surface integrity and fatigue strength of titanium alloys, the application of the spindle power data in tool condition monitoring (TCM) based on Hilbert-Huang transform (HHT), and the application of Mixed Reality(MR) in the industrial scenario.
 education:
   - university:  Shanghai Jiao Tong University
     degree: MSc in Mechanical Engineering
@@ -36,7 +36,7 @@ study-projects:
     description: As part of the work in SJTU-Starrag Joint Lab, I created a holographic model in HoloLens, through which the spindle movement and running status of NB251 milling center were demonstrated. This project was shown at the 1st China International Import Expo.
   - name: Work for <b>the Fraunhofer project center for smart manufacturing at SJTU.</b>
     duration: Oct 2017 - Jun 2018
-    description: I developed an MR dashboard based on HoloLens to display the real-time state of the equipment (such as <font color="#20B2AA"><u><a href=" http://www.yahoo.com">machine tools</a></u></font>, UR robots, and FESTO assembly line) in the plant.
+    description: I developed an MR dashboard based on HoloLens to display the real-time state of the equipment (such as <font color="#20B2AA"><u><a href="https://github.com/yfgui/yfgui.github.io/raw/master/screenshots/antique%20lathe.gif">antique lathe</a></u></font>, <font color="#20B2AA"><u><a href="https://github.com/yfgui/yfgui.github.io/raw/master/screenshots/antique%20lathe.gif">CNC</a></u></font>, <font color="#20B2AA"><u><a href="https://github.com/yfgui/yfgui.github.io/raw/master/screenshots/antique%20lathe.gif">UR robots</a></u></font>, and <font color="#20B2AA"><u><a href="https://github.com/yfgui/yfgui.github.io/raw/master/screenshots/antique%20lathe.gif">FESTO assembly line</a></u></font>) in the plant.
 work-experience:
   - title: Student assistant in the Engine plant
     duration: Aug 2016 - Sep 2016
