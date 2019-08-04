@@ -24,7 +24,7 @@ education:
     location: Tianjin, China
     description: Courses, e.g., Mechanical Theory and Mechanical Design, Fundamentals of Mechanical Manufacturing Technology, Mechanics of Materials, Introduction to Electrical Engineering (GPA-3.78/4)
     thesis: Bachelor thesis, ‘Design of flexible-driving 3 DOF polishing head.’
-study projects:
+study-projects:
   - name: Research into ‘Dengeling—a new method for mechanical surface treatment.’
     duration: Mar 2019 – present
     description: Dengeling is a new process which is integrated into Starrag LX051 milling center. I have been investigating its influence on the surface integrity and fatigue strength of titanium alloys.
@@ -37,16 +37,16 @@ study projects:
   - name: Work for the Fraunhofer project center for smart manufacturing at SJTU.
     duration: Oct 2017 - Jun 2018
     description: I developed an MR dashboard based on HoloLens to display the real-time state of the equipment (such as machine tools, UR robots, and FESTO assembly line) in the plant.
-work experience:
+work-experience:
   - title: Student assistant in the Engine plant
     duration: Aug 2016 - Sep 2016
     company: Dongfeng Trucks Co. Ltd.
-    description:   Formulating a process scheme for the shaft parts in the automotive gearbox
+    description: Formulating a process scheme for the shaft parts in the automotive gearbox
   - title: Intern service engineer
     duration: Jun 2016 - Aug 2018
     company: Roche Diagnostics (Shanghai) Ltd.
     description: Completing the installation, maintenance, and basic troubleshooting according to the technical manual independently
-extracurricular activities:
+extracurricular-activities:
   - name: Metal Cutting Trainning Sandvik
     duration: Jun 2019 - Jul 2019
     location: Shanghai
@@ -66,7 +66,7 @@ extracurricular activities:
 publications:
   - name: Gui YF, Shen B, Chen B, etc. Application of Spindle Power Signals in Tool Condition Monitoring Based on HHT Algorithm. Submitted to INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY (under review)
     time: Jun 2019
-addtitional information:
+addtitional-information:
   - title: Computer skills
     items: (Excellent) AutoCAD, SolidWorks, MATLAB, Abaqus, Unity, ESPRIT  (Fair) Pro/E, UG, ANSYS
   - title: Language skills
