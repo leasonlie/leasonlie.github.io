@@ -11,7 +11,7 @@ contact:
   - icon: fa-id-card
     text: P.R. China
 profile:
-  - description: I am a [Master student]https://github.com/crispgm/resume/tree/master/screenshots) at <b>the School of Mechanical Engineering</b> at <strong>Shanghai Jiao Tong University</strong>. My research interests are mainly concentrated on Prognostic and Health Management (PHM), surface modification treatment, and adaptive machining technology. I have been working for the Fraunhofer project center for smart manufacturing at SJTU. The focuses of my research were towards the influence of Dengeling on the surface integrity and fatigue strength of titanium alloys, the application of the spindle power data in tool condition monitoring (TCM) based on Hilbert-Huang transform (HHT), and the application of Mixed Reality(MR) in the industrial scenario.
+  - description: I am a [Master student](https://github.com/crispgm/resume/tree/master/screenshots) at the School of Mechanical Engineering at Shanghai Jiao Tong University. My research interests are mainly concentrated on <b>Prognostic and Health Management (PHM), surface modification treatment, and adaptive machining technology</b>. I have been working for the Fraunhofer project center for smart manufacturing at SJTU. The focuses of my research were towards the influence of Dengeling on the surface integrity and fatigue strength of titanium alloys, the application of the spindle power data in tool condition monitoring (TCM) based on Hilbert-Huang transform (HHT), and the application of Mixed Reality(MR) in the industrial scenario.
 education:
   - university:  Shanghai Jiao Tong University
     degree: MSc in Mechanical Engineering
@@ -22,19 +22,19 @@ education:
     degree: BEng in Mechanical Design, Manufacture and Automation
     duration: Sep 2013 - Jul 2017
     location: Tianjin, China
-    description: Courses, e.g., Mechanical Theory and Mechanical Design, Fundamentals of Mechanical Manufacturing Technology, Mechanics of Materials, Introduction to Electrical Engineering (GPA-3.78/4)
+    description: Courses, e.g., Mechanical Theory and Mechanical Design, Fundamentals of Mechanical Manufacturing Technology, Mechanics of Materials, Introduction to Electrical Engineering (GPA:3.78/4)
     thesis: Bachelor thesis, ‘Design of flexible-driving 3 DOF polishing head.’
 study-projects:
-  - name: Research into ‘Dengeling—a new method for mechanical surface treatment.’
+  - name: Research into <b>‘Dengeling—a new method for mechanical surface treatment.’</b>
     duration: Mar 2019 – present
     description: Dengeling is a new process which is integrated into Starrag LX051 milling center. I have been investigating its influence on the surface integrity and fatigue strength of titanium alloys.
-  - name: Research into ‘A creative online tool condition monitoring (TCM) method.’
+  - name: Research into <b>‘A creative online tool condition monitoring (TCM) method.’</b>
     duration: Apr 2018 – May 2019
     description: I used a signal acquisition system to collect the spindle power signal of the machine tool and utilized Hilbert-Huang Transform to process the data to extract features highly related to the wear state of cutting tools.
-  - name: Research into ‘The application of Mixed Reality (MR) technology on Starrag NB2521.’
+  - name: Research into <b>‘The application of Mixed Reality (MR) technology on Starrag NB2521.’</b>
     duration: Jul 2018 - Nov 2018
     description: As part of the work in SJTU-Starrag Joint Lab, I created a holographic model in HoloLens, through which the spindle movement and running status of NB251 milling center were demonstrated. This project was shown at the 1st China International Import Expo.
-  - name: Work for the Fraunhofer project center for smart manufacturing at SJTU.
+  - name: Work for <b>the Fraunhofer project center for smart manufacturing at SJTU.</b>
     duration: Oct 2017 - Jun 2018
     description: I developed an MR dashboard based on HoloLens to display the real-time state of the equipment (such as machine tools, UR robots, and FESTO assembly line) in the plant.
 work-experience:
