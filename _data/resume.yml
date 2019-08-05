@@ -30,7 +30,7 @@ study-projects:
     description: Dengeling is a new process which is integrated into Starrag LX051 milling center. I have been investigating its influence on the surface integrity and fatigue strength of titanium alloys.
   - name: Research into <b>‘A creative online tool condition monitoring (TCM) method.’</b>
     duration: Apr 2018 – May 2019
-    description: I used a signal acquisition system to collect the spindle power signal of the machine tool and utilized Hilbert-Huang Transform to process the data to extract features highly related to the wear state of cutting tools.
+    description: I used a <font color="#20B2AA"><u><a href="https://drive.google.com/open?id=1-Uz09QlThnZD8C70gQSjEGVnMtefIh0k">signal acquisition system</a></u></font> to collect the spindle power signal of the machine tool and utilized <font color="#20B2AA"><u><a href="https://drive.google.com/open?id=1m-aUvnTMoeqLFhAMSQup0KMi5_RpAlYQ">Hilbert-Huang Transform</a></u></font> to process the data to extract features highly related to the wear state of cutting tools.
   - name: Research into <b>‘The application of Mixed Reality (MR) technology on Starrag NB2521.’</b>
     duration: Jul 2018 - Nov 2018
     description: As part of the work in SJTU-Starrag Joint Lab, I created a <font color="#20B2AA"><u><a href="https://drive.google.com/open?id=1Li7lmQYHFeD3aUb5ZjMkPQSwBuc3lYod">holographic model</a></u></font> in HoloLens, through which the spindle movement and running status of NB251 milling center were demonstrated. This project was shown at the 1st China International Import Expo.
