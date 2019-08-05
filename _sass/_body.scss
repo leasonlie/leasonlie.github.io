@@ -2,7 +2,7 @@ section {
   display: flex;
   padding-top: 2.4rem;
   padding-bottom: 2.4rem;
-  padding-left: -1rem;
+  padding-left: 0rem;
   border-bottom: .1rem solid $secondary-color;
   hyphens: auto;
 }
@@ -10,7 +10,7 @@ section {
 .section-title {
   font-size: 1.6rem;
   text-align: left;
-  min-width: 10rem;
+  min-width: 14rem;
 }
 
 .section-content {
