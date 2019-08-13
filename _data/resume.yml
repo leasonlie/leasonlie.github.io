@@ -36,7 +36,7 @@ study-projects:
     description: As part of the work in SJTU-Starrag Joint Lab, I created a <font color="#20B2AA"><u><a href="https://drive.google.com/open?id=1Li7lmQYHFeD3aUb5ZjMkPQSwBuc3lYod">holographic model</a></u></font> in HoloLens, through which the spindle movement and running status of NB251 milling center were demonstrated. This project was shown at the 1st China International Import Expo.
   - name: Work for <b>the Fraunhofer project center for smart manufacturing at SJTU.</b>
     duration: Oct 2017 - Jun 2018
-    description: I developed an MR dashboard based on HoloLens to display the real-time state of the equipment (such as <font color="#20B2AA"><u><a href="https://drive.google.com/open?id=1YKhJ2GYxv5pW0dZUIw7Pg6Tt50Iy3aGv">antique lathe</a></u></font>, <font color="#20B2AA"><u><a href="https://drive.google.com/open?id=1GNjcXhUnW7TEuzQIIv82SZfzeyEA3o6O">CNC</a></u></font>, <font color="#20B2AA"><u><a href="https://drive.google.com/open?id=1u5tu2eu5D-n0QUYp-fxw62i_8DAXVMpc">UR robots</a></u></font>, and <font color="#20B2AA"><u><a href="https://drive.google.com/open?id=1z7aYZ4UtJEjK6K-hvi7YUzYMjRQQzozZ">FESTO assembly line</a></u></font>) in the plant.
+    description: I developed an <font color="#20B2AA"><u><a href="https://drive.google.com/open?id=1j92_5MkU3hPxXyCmZ-cKlrB9D9AtWUbP">MR dashboard</a></u></font> based on HoloLens to display the real-time state of the equipment (such as <font color="#20B2AA"><u><a href="https://drive.google.com/open?id=1Gq6Z1YMhRsTVUjo4JvMHXCdwQM_itOYY">antique lathe</a></u></font>, <font color="#20B2AA"><u><a href="https://drive.google.com/open?id=10iCikm0dkJ746VGBfj3cIsKgxIOIOs9O">CNC</a></u></font>, <font color="#20B2AA"><u><a href="https://drive.google.com/open?id=1cYulY-HTvRVZrzqLwQFHG9_p86bUslM6">UR robots</a></u></font>, and <font color="#20B2AA"><u><a href="https://drive.google.com/open?id=1GaAlMTFwzoLI56uEBRyesYZOLFWTZ9NZ">FESTO assembly line</a></u></font>) in the plant.
 work-experience:
   - title: Student assistant in the Engine plant
     duration: Aug 2016 - Sep 2016
@@ -47,7 +47,7 @@ work-experience:
     company: Roche Diagnostics (Shanghai) Ltd.
     description: <li>Completing the installation, maintenance, and basic troubleshooting according to the technical manual independently</li>
 extracurricular-activities:
-  - name: Metal Cutting Trainning Sandvik
+  - name: Sandvik Metal Cutting Trainning
     duration: Jun 2019 - Jul 2019
     location: Shanghai
     description: <li>Completed the Sandvid Coromant Academy Program ‘Metal Cutting Technology E-learning’ and on-site training, including milling, turning, tools</li>
