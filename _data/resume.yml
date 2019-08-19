@@ -11,7 +11,7 @@ contact:
   - icon: fa-id-card
     text: P.R. China
 profile:
-  - description: I am a Master student at the <font color="#20B2AA"><u><a href="http://me.sjtu.edu.cn/en/">School of Mechanical Engineering</a></u></font> at Shanghai Jiao Tong University. My research interests are mainly concentrated on <b>Prognostic and Health Management (PHM), advanced manufacturing technology, and surface modification treatment</b>. I have been working for the Fraunhofer project center for smart manufacturing at SJTU. The focuses of my research were towards <ol style="padding-left:20px"><li>The influence of Dengeling on the surface integrity and fatigue strength of titanium alloys</li> <li>The application of the spindle power data in tool condition monitoring (TCM) based on Hilbert-Huang transform (HHT)</li> <li>The application of Mixed Reality (MR) in the industrial scenario</li></ol>
+  - description: I am a Master student at the <font color="#20B2AA"><u><a href="http://me.sjtu.edu.cn/en/">School of Mechanical Engineering</a></u></font> at Shanghai Jiao Tong University. My research interests are mainly concentrated on <b>Prognostic and Health Management (PHM), advanced manufacturing technology, and surface modification treatment</b>. I have been working for the Fraunhofer project center for smart manufacturing at SJTU. The focuses of my research were towards <ul><li>The influence of Dengeling on the surface integrity and fatigue strength of titanium alloys</li> <li>The application of the spindle power data in tool condition monitoring (TCM) based on Hilbert-Huang transform (HHT)</li> <li>The application of Mixed Reality (MR) in the industrial scenario</li></ul>
 education:
   - university:  <font color="#20B2AA"><a href="http://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></font>
     degree: MSc in Mechanical Engineering
@@ -41,32 +41,32 @@ work-experience:
   - title: Student assistant in the Engine plant
     duration: Aug 2016 - Sep 2016
     company: <a href="http://www.dongfengtrucks.com">Dongfeng Trucks Co. Ltd.</a>
-    description: <li>Formulating a process scheme for the shaft parts in the automotive gearbox</li>
+    description: <ul><li>Formulating a process scheme for the shaft parts in the automotive gearbox</li></ul>
   - title: Intern service engineer
     duration: Jun 2016 - Aug 2018
     company: <a href="https://www.roche.com/">Roche Diagnostics (Shanghai) Ltd.</a>
-    description: <li>Completing the installation, maintenance, and basic troubleshooting according to the technical manual independently</li>
+    description: <ul><li>Completing the installation, maintenance, and basic troubleshooting according to the technical manual independently</li></ul>
 extracurricular-activities:
   - name: Sandvik Metal Cutting Trainning
     duration: Jun 2019 - Jul 2019
     location: Shanghai
-    description: <li>Completed the Sandvid Coromant Academy Program ‘Metal Cutting Technology E-learning’ and on-site training, including milling, turning, tools</li>
+    description: <ul><li>Completed the Sandvid Coromant Academy Program ‘Metal Cutting Technology E-learning’ and on-site training, including milling, turning, tools</li></ul>
   - name: Member of ‘Chinese Students Meet Swiss Technology Program’ held by SWISSMEM
     duration: Apr 2019
     location: Beijing
-    description: <li>Visited more than 60 Swiss companies exhibiting at CIMT’19</li> <li>Learned the latest technology developments in manufacturing and machine tools, tools and measuring instruments</li> <li>Met with the Swiss Ambassador Bernardino Regazzoni</li>
+    description: <ul><li>Visited more than 60 Swiss companies exhibiting at CIMT’19</li> <li>Learned the latest technology developments in manufacturing and machine tools, tools and measuring instruments</li> <li>Met with the Swiss Ambassador Bernardino Regazzoni</li></ul>
   - name: Team leader of the 15th China Post-Graduate Mathematical Contest in Modeling
     duration: Sep 2018
     location: Shanghai
-    description: <li>Determined the optimal planning of the Optical Transport Network (OTN) and discussed the influence of different factors on the total value of the OTN</li> <li>Won the second prize (TOP 14.5%)</li>
+    description: <ul><li>Determined the optimal planning of the Optical Transport Network (OTN) and discussed the influence of different factors on the total value of the OTN</li> <li>Won the second prize (TOP 14.5%)</li></ul>
   - name: Member of ‘Hug Nami’ public welfare education organization
     duration: Feb 2017
     location: Sichuan Province
-    description: <li>Raised supplies for children on a snowy mountain and imparted knowledge to them</li>
+    description: <ul><li>Raised supplies for children on a snowy mountain and imparted knowledge to them</li></ul>
   - name: Chair of the Student Association Union
     duration: Oct 2015 - Jul 2016
     location: Tianjin
-    description: <li>Responsible for internal and external communications</li> <li>Developed a new workflow to optimize the organization of activities and serve more than 150 student associations</li>
+    description: <ul><li>Responsible for internal and external communications</li> <li>Developed a new workflow to optimize the organization of activities and serve more than 150 student associations</li></ul>
 publications:
   - name: <b>Gui YF</b>, Shen B, Chen B, etc. Application of Spindle Power Signals in Tool Condition Monitoring Based on HHT Algorithm. Submitted to INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY (under review)
     time: Jun 2019
