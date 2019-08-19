@@ -11,14 +11,14 @@ contact:
   - icon: fa-id-card
     text: P.R. China
 profile:
-  - description: I am a Master student at the School of Mechanical Engineering at Shanghai Jiao Tong University. My research interests are mainly concentrated on <b>Prognostic and Health Management (PHM), surface modification treatment, and adaptive machining technology</b>. I have been working for the Fraunhofer project center for smart manufacturing at SJTU. The focuses of my research were towards the influence of Dengeling on the surface integrity and fatigue strength of titanium alloys, the application of the spindle power data in tool condition monitoring (TCM) based on Hilbert-Huang transform (HHT), and the application of Mixed Reality(MR) in the industrial scenario.
+  - description: I am a Master student at the <font color="#20B2AA"><u><a href="http://me.sjtu.edu.cn/en/">School of Mechanical Engineering</a></u></font> at Shanghai Jiao Tong University. My research interests are mainly concentrated on <b>Prognostic and Health Management (PHM), surface modification treatment, and adaptive machining technology</b>. I have been working for the Fraunhofer project center for smart manufacturing at SJTU. The focuses of my research were towards the influence of Dengeling on the surface integrity and fatigue strength of titanium alloys, the application of the spindle power data in tool condition monitoring (TCM) based on Hilbert-Huang transform (HHT), and the application of Mixed Reality(MR) in the industrial scenario.
 education:
-  - university:  Shanghai Jiao Tong University
+  - university:  <font color="#20B2AA"><a href="http://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></font>
     degree: MSc in Mechanical Engineering
     duration: Sep 2017 - Present
     location: Shanghai, China
     description: Courses, e.g., Application and Theory of Elasticity and Plasticity, Modern Control Theory, Advanced Spatial Mechanism, Machinery Dynamics (GPA:3.88/4)
-  - university: Tianjin University
+  - university: <font color="#20B2AA"><a href="http://www.tju.edu.cn/english/index.htm">Tianjin University</a></font>
     degree: BEng in Mechanical Design, Manufacture and Automation
     duration: Sep 2013 - Jul 2017
     location: Tianjin, China
@@ -40,11 +40,11 @@ study-projects:
 work-experience:
   - title: Student assistant in the Engine plant
     duration: Aug 2016 - Sep 2016
-    company: Dongfeng Trucks Co. Ltd.
+    company: <a href="http://www.dongfengtrucks.com">Dongfeng Trucks Co. Ltd.</a>
     description: <li>Formulating a process scheme for the shaft parts in the automotive gearbox</li>
   - title: Intern service engineer
     duration: Jun 2016 - Aug 2018
-    company: Roche Diagnostics (Shanghai) Ltd.
+    company: <a href="https://www.roche.com/">Roche Diagnostics (Shanghai) Ltd.</a>
     description: <li>Completing the installation, maintenance, and basic troubleshooting according to the technical manual independently</li>
 extracurricular-activities:
   - name: Sandvik Metal Cutting Trainning
