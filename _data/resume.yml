@@ -11,7 +11,7 @@ contact:
   - icon: fa-id-card
     text: P.R. China
 profile:
-  - description: I am a Master student at the <font color="#20B2AA"><a href="http://me.sjtu.edu.cn/en/">School of Mechanical Engineering</a></font> at Shanghai Jiao Tong University. My research interests are mainly concentrated on <b>Smart Sensory System, Signal Processing, and Prognostic and Health Management (PHM)</b>. I have been working for the Fraunhofer project center for smart manufacturing at SJTU. The focuses of my research were towards <ul style="padding-left:1.2rem"><li>The influence of Machine Hammer peening (MHP) on the surface integrity and fatigue strength of titanium alloys</li> <li>The fault detection technology of CNC machine tools using Principal Component Analysis (PCA) and Deep Learning</li> <li>The application of the spindle power data in tool condition monitoring (TCM) based on Hilbert-Huang transform (HHT)</li> <li>The application of Mixed Reality (MR) in the industrial scenario</li></ul>
+  - description: I am a Master student at the <font color="#20B2AA"><a href="http://me.sjtu.edu.cn/en/">School of Mechanical Engineering</a></font> at Shanghai Jiao Tong University. My research interests are mainly concentrated on <b>Smart Sensory System, Signal Processing, and Prognostic and Health Management (PHM)</b>. I have been working for the Fraunhofer project center for smart manufacturing at SJTU. The focuses of my research were towards <ul style="padding-left:1.2rem"><li>The influence of Machine Hammer Peening (MHP) on the surface integrity and fatigue strength of titanium alloys</li> <li>The fault detection technology of CNC machine tools using Principal Component Analysis (PCA) and Deep Learning</li> <li>The application of the spindle power data in tool condition monitoring (TCM) based on Hilbert-Huang transform (HHT)</li> <li>The application of Mixed Reality (MR) in the industrial scenario</li></ul>
 education:
   - university:  <font color="#20B2AA"><a href="http://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></font>
     degree: MSc in Mechanical Engineering
@@ -61,7 +61,7 @@ extracurricular-activities:
   - name: Team leader of the 15th China Post-Graduate Mathematical Contest in Modeling
     duration: Sep 2018
     location: Shanghai
-    description: <ul style="padding-left:1.2rem"><li>	Designed the optimal plan of an Optical Transport Network (OTN) and investigated the influence of different factors on the total value of the OTN</li> <li>Won the second prize (TOP 14.5%)</li></ul>
+    description: <ul style="padding-left:1.2rem"><li>Designed the optimal plan of an Optical Transport Network (OTN) and investigated the influence of different factors on the total value of the OTN</li> <li>Won the second prize (TOP 14.5%)</li></ul>
   - name: Member of ‘Hug Nami’ public welfare education organization
     duration: Feb 2017
     location: Sichuan Province
