@@ -11,7 +11,7 @@ contact:
   - icon: fa-id-card
     text: P.R. China
 profile:
-  - description: I am a Master student at the <font color="#20B2AA"><a href="http://me.sjtu.edu.cn/en/">School of Mechanical Engineering</a></font> at Shanghai Jiao Tong University. My research interests are mainly concentrated on <b>Prognostic and Health Management (PHM), advanced manufacturing technology, and surface modification treatment</b>. I have been working for the Fraunhofer project center for smart manufacturing at SJTU. The focuses of my research were towards <ul style="padding-left:1.2rem"><li>The influence of Dengeling on the surface integrity and fatigue strength of titanium alloys</li> <li>The application of the spindle power data in tool condition monitoring (TCM) based on Hilbert-Huang transform (HHT)</li> <li>The application of Mixed Reality (MR) in the industrial scenario</li></ul>
+  - description: I am a Master student at the <font color="#20B2AA"><a href="http://me.sjtu.edu.cn/en/">School of Mechanical Engineering</a></font> at Shanghai Jiao Tong University. My research interests are mainly concentrated on <b>Smart Sensory System, Signal Processing, and Prognostic and Health Management (PHM)</b>. I have been working for the Fraunhofer project center for smart manufacturing at SJTU. The focuses of my research were towards <ul style="padding-left:1.2rem"><li>The influence of Machine Hammer peening (MHP) on the surface integrity and fatigue strength of titanium alloys</li> <li>The fault detection technology of CNC machine tools using Principal Component Analysis (PCA) and Deep Learning</li> <li>The application of the spindle power data in tool condition monitoring (TCM) based on Hilbert-Huang transform (HHT)</li> <li>The application of Mixed Reality (MR) in the industrial scenario</li></ul>
 education:
   - university:  <font color="#20B2AA"><a href="http://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></font>
     degree: MSc in Mechanical Engineering
@@ -25,18 +25,21 @@ education:
     description: Courses, e.g., Mechanical Theory and Mechanical Design, Fundamentals of Mechanical Manufacturing Technology, Mechanics of Materials, Introduction to Electrical Engineering (GPA:3.78/4)
     thesis: Bachelor thesis, ‘Design of flexible-driving 3 DOF polishing head.’
 study-projects:
-  - name: Research into <b>‘Dengeling—a new method for mechanical surface treatment.’</b>
+  - name: Research into <b>‘The influence of MHP on the fatigue strength of TC4.’</b>
     duration: Mar 2019 – present
-    description: Dengeling is a new process which is integrated into Starrag LX051 milling center. I have been investigating its influence on the surface integrity and fatigue strength of titanium alloys.
+    description: I designed a electromagnetic driven machine hammer peening (MHP) device using Simulink and Abaqus, then reaearched the surface integrity and fatigue life of MHP-treated TC4.
+  - name: Research into ‘The smart health diagnosis technology of CNC machine tools.’
+    duration: Nov 2018 – Sep 2019
+    description: I carried out the anomy detection of the data collected from the servo system using Principal Component Analysis (PCA) method. Then several features were extracted based on the fusion of AutoEncoder and CNN, and the running state of the machine tool was clustered by the Self Organizing Map (SOM) Neural Network.
   - name: Research into <b>‘A creative online tool condition monitoring (TCM) method.’</b>
     duration: Apr 2018 – May 2019
-    description: I used a <font color="#20B2AA"><a href="https://drive.google.com/open?id=1-Uz09QlThnZD8C70gQSjEGVnMtefIh0k">signal acquisition system</a></font> to collect the spindle power signal of the machine tool and utilized <font color="#20B2AA"><a href="https://drive.google.com/open?id=1m-aUvnTMoeqLFhAMSQup0KMi5_RpAlYQ">Hilbert-Huang Transform</a></font> to process the data to extract features highly related to the wear state of cutting tools.
+    description: I utilized <font color="#20B2AA"><a href="https://drive.google.com/open?id=1m-aUvnTMoeqLFhAMSQup0KMi5_RpAlYQ">Hilbert-Huang Transform algorithm</a></font> to process the <font color="#20B2AA"><a href="https://drive.google.com/open?id=1-Uz09QlThnZD8C70gQSjEGVnMtefIh0k">spindle power signal</a></font> acquired from the machine tool and extracted features highly related to the wear state of cutting tools.
   - name: Research into <b>‘The application of Mixed Reality (MR) technology on Starrag NB2521.’</b>
     duration: Jul 2018 - Nov 2018
-    description: As part of the work in SJTU-Starrag Joint Lab, I created a <font color="#20B2AA"><a href="https://drive.google.com/open?id=1p15Gt6SSPxHDhskAcuVKCO1OArWFFuRf">holographic model</a></font> in HoloLens, through which the spindle movement and running status of NB251 milling center were demonstrated. This project was shown at the 1st China International Import Expo.
+    description: I created a <font color="#20B2AA"><a href="https://drive.google.com/open?id=1p15Gt6SSPxHDhskAcuVKCO1OArWFFuRf">holographic model</a></font> in HoloLens, which demonstrated the spindle movement and running status of NB251 milling center. (shown at the 1st CIIE)
   - name: Work for <b>the Fraunhofer project center for smart manufacturing at SJTU.</b>
     duration: Oct 2017 - Jun 2018
-    description: I developed an <font color="#20B2AA"><a href="https://drive.google.com/open?id=1j92_5MkU3hPxXyCmZ-cKlrB9D9AtWUbP">MR dashboard</a></font> based on HoloLens to display the real-time state of the equipment (such as <font color="#20B2AA"><a href="https://drive.google.com/open?id=1Gq6Z1YMhRsTVUjo4JvMHXCdwQM_itOYY">antique lathe</a></font>, <font color="#20B2AA"><a href="https://drive.google.com/open?id=10iCikm0dkJ746VGBfj3cIsKgxIOIOs9O">CNC</a></font>, <font color="#20B2AA"><a href="https://drive.google.com/open?id=1cYulY-HTvRVZrzqLwQFHG9_p86bUslM6">UR robots</a></font>, and <font color="#20B2AA"><a href="https://drive.google.com/open?id=1GaAlMTFwzoLI56uEBRyesYZOLFWTZ9NZ">FESTO assembly line</a></font>) in the plant.
+    description: I developed an <font color="#20B2AA"><a href="https://drive.google.com/open?id=1j92_5MkU3hPxXyCmZ-cKlrB9D9AtWUbP">MR dashboard</a></font> based on HoloLens to display the real-time state of the equipment (including <font color="#20B2AA"><a href="https://drive.google.com/open?id=1Gq6Z1YMhRsTVUjo4JvMHXCdwQM_itOYY">antique lathe</a></font>, <font color="#20B2AA"><a href="https://drive.google.com/open?id=10iCikm0dkJ746VGBfj3cIsKgxIOIOs9O">CNC</a></font>, <font color="#20B2AA"><a href="https://drive.google.com/open?id=1cYulY-HTvRVZrzqLwQFHG9_p86bUslM6">UR robots</a></font>, and <font color="#20B2AA"><a href="https://drive.google.com/open?id=1GaAlMTFwzoLI56uEBRyesYZOLFWTZ9NZ">FESTO assembly line</a></font>) in the plant.
 work-experience:
   - title: Student assistant in the Engine plant
     duration: Aug 2016 - Sep 2016
@@ -47,18 +50,18 @@ work-experience:
     company: <a href="https://www.roche.com/">Roche Diagnostics (Shanghai) Ltd.</a>
     description: <ul style="padding-left:1.2rem"><li>Completing the installation, maintenance, and basic troubleshooting according to the technical manual independently</li></ul>
 extracurricular-activities:
-  - name: Sandvik Metal Cutting Trainning
+  - name: Metal Cutting Trainning held by Sandvik
     duration: Jun 2019 - Jul 2019
     location: Shanghai
-    description: <ul style="padding-left:1.2rem"><li>Completed the Sandvid Coromant Academy Program ‘Metal Cutting Technology E-learning’ and on-site training, including milling, turning, tools</li></ul>
+    description: <ul style="padding-left:1.2rem"><li>Completed the Sandvid Coromant Academy Program ‘Metal Cutting Technology E-learning’, and attended on-site training, including milling, turning, tools</li></ul>
   - name: Member of ‘Chinese Students Meet Swiss Technology Program’ held by SWISSMEM
     duration: Apr 2019
     location: Beijing
-    description: <ul style="padding-left:1.2rem"><li>Visited more than 60 Swiss companies exhibiting at CIMT’19</li> <li>Learned the latest technology developments in manufacturing and machine tools, tools and measuring instruments</li> <li>Met with the Swiss Ambassador Bernardino Regazzoni</li></ul>
+    description: <ul style="padding-left:1.2rem"><li>Visited more than 60 Swiss companies at CIMT’19, and learned the cutting-edge technologies of tools, machine tools, measuring instruments, and production management</li> <li>Met with the Swiss Ambassador Bernardino Regazzoni</li></ul>
   - name: Team leader of the 15th China Post-Graduate Mathematical Contest in Modeling
     duration: Sep 2018
     location: Shanghai
-    description: <ul style="padding-left:1.2rem"><li>Determined the optimal planning of the Optical Transport Network (OTN) and discussed the influence of different factors on the total value of the OTN</li> <li>Won the second prize (TOP 14.5%)</li></ul>
+    description: <ul style="padding-left:1.2rem"><li>	Designed the optimal plan of an Optical Transport Network (OTN) and investigated the influence of different factors on the total value of the OTN</li> <li>Won the second prize (TOP 14.5%)</li></ul>
   - name: Member of ‘Hug Nami’ public welfare education organization
     duration: Feb 2017
     location: Sichuan Province
@@ -66,7 +69,7 @@ extracurricular-activities:
   - name: Chair of the Student Association Union
     duration: Oct 2015 - Jul 2016
     location: Tianjin
-    description: <ul style="padding-left:1.2rem"><li>Responsible for internal and external communications</li> <li>Developed a new workflow to optimize the organization of activities and serve more than 150 student associations</li></ul>
+    description: <ul style="padding-left:1.2rem"><li>Provided service to more than 150 student associations and developed a new workflow to optimize the organization of student activities</li></ul>
 publications:
   - name: <b>Gui Y</b>, Guan W, Chen B, Shen B. Online Tool Condition Monitoring Based on Hilbert-Huang Transform and Spidle Power Signal. Accepted by Journal of Machine Design and Research , in Chinese with English abstract.
     time: Apr 2019
