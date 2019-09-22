@@ -27,7 +27,7 @@ education:
 study-projects:
   - name: Research into <b>‘The influence of MHP on the fatigue strength of TC4.’</b>
     duration: Mar 2019 – present
-    description: I designed a electromagnetic driven machine hammer peening (MHP) device using Simulink and Abaqus, then reaearched the surface integrity and fatigue life of MHP-treated TC4.
+    description: I designed a electromagnetic driven machine hammer peening (MHP) device using Simulink and Abaqus, then researched the surface integrity and fatigue life of MHP-treated TC4.
   - name: Research into ‘The smart health diagnosis technology of CNC machine tools.’
     duration: Nov 2018 – Sep 2019
     description: I carried out the anomy detection of the data collected from the servo system using Principal Component Analysis (PCA) method. Then several features were extracted based on the fusion of AutoEncoder and CNN, and the running state of the machine tool was clustered by the Self Organizing Map (SOM) Neural Network.
@@ -50,7 +50,7 @@ work-experience:
     company: <a href="https://www.roche.com/">Roche Diagnostics (Shanghai) Ltd.</a>
     description: <ul style="padding-left:1.2rem"><li>Completing the installation, maintenance, and basic troubleshooting according to the technical manual independently</li></ul>
 extracurricular-activities:
-  - name: Metal Cutting Trainning held by Sandvik
+  - name: Metal Cutting Training held by Sandvik
     duration: Jun 2019 - Jul 2019
     location: Shanghai
     description: <ul style="padding-left:1.2rem"><li>Completed the Sandvid Coromant Academy Program ‘Metal Cutting Technology E-learning’, and attended on-site training, including milling, turning, tools</li></ul>
