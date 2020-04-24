@@ -71,13 +71,15 @@ extracurricular-activities:
     location: Tianjin
     description: <ul style="padding-left:1.2rem"><li>Provided service to more than 150 student associations and developed a new workflow to optimize the organization of student activities</li></ul>
 publications:
-  - name: <b>Gui Y</b>, Guan W, Chen B, Shen B. Online Tool Condition Monitoring Based on Hilbert-Huang Transform and Spidle Power Signal. Accepted by Journal of Machine Design and Research , in Chinese with English abstract.
+  - name: Shen B, <b>Gui Y</b>, Chen B, Lin Z, Liu Q, Liu Q. Application of Spindle Power Signals in Tool Condition Monitoring Based on HHT Algorithm. INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY 106: 1385-1395.. doi:10.1007/s00170-019-04684-0
+    time: Dec 2019
+  - name: <b>Gui Y</b>, Guan W, Chen B, Shen B. Online Tool Condition Monitoring Based on HilbertHuang Transform and Spidle Power Signal. Journal of Machine Design and Research 35(05): 6369. doi:10.13952/j.cnki.jofmdr.2019.0277
     time: Apr 2019
-  - name: <b>Gui Y</b>, Shen B, Chen B, Lin Z, Liu Q, Liu Q. Application of Spindle Power Signals in Tool Condition Monitoring Based on HHT Algorithm. Submitted to INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY (under revision)
-    time: Jun 2019
 additional-information:
-  - title: Computer skills
-    items: AutoCAD, SolidWorks, MATLAB, Abaqus, Unity, ESPRIT (Excellent) <br/>Python, Pro/E, UG, LabView, ANSYS (Fair)
+  - title: Programing
+    items: C, Python, C#, SQL
+  - title: Software
+    items: MATLAB, LabVIEW, ABAQUS, AutoCAD, SolidWorks, Unity
   - title: Language skills
     items: Chinese (native), English (good, C1)
   - title: Interests
