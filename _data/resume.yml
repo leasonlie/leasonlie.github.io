@@ -1,13 +1,11 @@
 title: Yufei Gui's Online Resume
 name: Yufei Gui
-jobtitle: Master student
+jobtitle: PhD student
 contact:
   - icon: fa-map-pin
-    text: 800 Dongchuan Road, Shanghai, China
-  - icon: fa-phone-square
-    text: +86 15221189675
+    text: Sheffied, UK
   - icon: fa-envelope
-    text: guiyufei@sjtu.edu.cn
+    text: ygui7@sheffield.ac.uk
   - icon: fa-id-card
     text: P.R. China
 profile:
